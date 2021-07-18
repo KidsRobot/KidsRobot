@@ -13,6 +13,14 @@ Coding is the basic knowledge of the digital age. It is very important for peopl
 
 <br>
 
+**Please visit our website for further informations:**
+
+**https://kidsrobot.ca**
+
+[![Logo of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/main/Logo.png)](https://kidsrobot.ca)
+
+<br>
+
 ## Why Choose Us?
 
 Great things about us:
