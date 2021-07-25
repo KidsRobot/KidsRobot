@@ -5,7 +5,7 @@
 # Kids Robot
 
 
-> **We offer quality microcontroller, sensors, electronic components, robot kit with BBC micro:bit and Raspberry Pi. Providing code samples and easy-to-follow giude for people who is intrested or love DIY robots. We promise guaranteed quality with proper price. Please contact us for purchase intention or questions.**
+> **We offer quality microcontroller, sensors, electronic components, robot kit with BBC micro:bit and Raspberry Pi. Providing code samples and easy-to-follow guide for people who is intrested or love DIY robots. We promise guaranteed quality with proper price. Please contact us for purchase intention or questions.**
 
 Located in Canada, we are working to help children and students who want to study programming and robot building. We provide various kinds of electronic boards and components in a proper and low price, great for DIY robots. For another awesome bonus, we offer code samples as supporting materials for beginners to learn programming and coding.
 
