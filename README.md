@@ -34,7 +34,7 @@ Great things about us:
 
 ## Our Products & Services
 
-We sale electronic development boards that include BBC micro:bit and Raspberry Pi. Along with other electronic components and extensions to the boards. We provide different kinds of code samples that beginners can learn from. We also have friendly development guides to people of different age. With help from us, you can easily build your own DIY robot using our products.
+We sell electronic development boards that include BBC micro:bit and Raspberry Pi. Along with other electronic components and extensions to the boards. We provide different kinds of code samples that beginners can learn from. We also have friendly development guides to people of different age. With help from us, you can easily build your own DIY robot using our products.
 
 By learning robotics, students can learn more than just how to code. They can learn many skills that enable them to succeed and discover their passion. By controlling the robot and observing what goes wrong, students can understand the ability of different robots. Robotics can help meet the growing demand for science, technology, and engineering teaching.
 
