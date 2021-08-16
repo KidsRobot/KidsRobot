@@ -43,7 +43,7 @@ By learning robotics, students can learn more than just how to code. They can le
 ## Social Media Links
 - **Youtube:** [Kids Robot](https://www.youtube.com/channel/UCRnYa9GVftGmj33vbN6rEfw)
 - **Twitter:** [@KidsRobotCanada](https://www.twitter.com/KidsRobotCanada)
-- **Facebook:** [@KidsRobot.CA](https://www.facebook.com/KidsRobot.CA)
+- **Facebook:** [@KidsRobot.ca](https://www.facebook.com/KidsRobot.ca)
 - **Instagram:** [@kids.robot](https://www.instagram.com/kids.robot)
 - **Pinterest**: [@kidsrobot](https://www.pinterest.ca/kidsrobot)
 
