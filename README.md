@@ -48,6 +48,10 @@ By learning robotics, students can learn more than just how to code. They can le
 - **Pinterest**: [@kidsrobot](https://www.pinterest.ca/kidsrobot)
 
 <br>
+
+![](https://github.com/KidsRobot/KidsRobot/blob/main/Twitter%20Embed.svg)
+
+<br>
 <br>
 
 ![Footer banner, includes text "Create", "Leanr", "Code"](https://github.com/KidsRobot/KidsRobot/blob/main/Footer%20Banner.png)
