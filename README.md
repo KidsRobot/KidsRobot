@@ -7,7 +7,7 @@
 
 > **We offer quality microcontroller, sensors, electronic components, robot kit with BBC micro:bit and Raspberry Pi. Providing code samples and easy-to-follow guide for people who are interested or love DIY robots. We promise guaranteed quality with proper price. Please feel free to contact us for purchase intention or any questions.**
 
-Located in Canada, we are working to help children and students who want to study programming and robot building. We provide various kinds of electronic boards and components in a proper and low price, great for DIY robots. For another awesome bonus, we offer code samples as supporting materials for beginners to learn programming and coding.
+Located in Canada, we are working to help children and students who want to study programming and robotics. We provide various kinds of electronic boards and components in a proper and low price, great for DIY your robots. For another awesome bonus, we offer code samples as supporting materials for beginners to learn programming and coding.
 
 Coding is the basic knowledge of the digital age. It is very important for people to understand and be able to use the technology around them. Letting children learn to code can prepare them for their future. Coding even helps children with communication, creativity, math, writing and self-confidence. At Kids Robot, we offer people a chance to use their knowledge to build their own robot. And we believe human's creativity is unlimited.
 
@@ -32,7 +32,7 @@ Great things about us:
 - **Secure Payment.** Provide 100% secure payment methods.
 - **Best Price.** Guaranteed quality with proper and low price.
 
-We always treat our customers with respects and offer them with affordable products with greate quality. At Kids Robot, you can get your own favorable robots easy and simply. If you have any questions or suggestions, we are happy to hear them!
+We always treat our customers with respects and offer them with affordable products with great quality. At Kids Robot, you can get your own favorable robots easy and simply. If you have any questions or suggestions, we are happy to hear them!
 
 <br>
 
