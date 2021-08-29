@@ -23,7 +23,7 @@ We provide beginner-friendly user guide, and easy-to-follow code samples. We hav
 
 <br>
 
-## Why Choose Us?
+## Why Choose Us
 
 Great things about us:
 
