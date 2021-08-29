@@ -52,7 +52,7 @@ If you have any questions or concerns, please visit the FAQ page on our website.
 
 Keep in touch with us and follow up our newest updates using any of the social media below:
 
-- **Youtube:** [Kids Robot](https://www.youtube.com/channel/UCRnYa9GVftGmj33vbN6rEfw)
+- **YouTube:** [Kids Robot](https://www.youtube.com/channel/UCRnYa9GVftGmj33vbN6rEfw)
 - **Twitter:** [@KidsRobotCanada](https://www.twitter.com/KidsRobotCanada)
 - **Facebook:** [@KidsRobot.ca](https://www.facebook.com/KidsRobot.ca)
 - **Instagram:** [@kids.robot](https://www.instagram.com/kids.robot)
