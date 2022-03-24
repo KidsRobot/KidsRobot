@@ -1,4 +1,4 @@
-![Banner of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/main/Kids%20Robot%20Banner.png)
+![Banner of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Banner.png)
 
 <br>
 
@@ -17,7 +17,7 @@ We provide beginner-friendly user guide, and easy-to-follow code samples. We hav
 
 **Visit our website:**
 
-[![Logo of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/main/Logo.png)](https://kidsrobot.ca)
+[![Logo of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Logo.png)](https://kidsrobot.ca)
 
 **https://www.kidsrobot.ca**
 
@@ -61,4 +61,4 @@ Keep in touch with us and follow up our newest updates using any of the social m
 <br>
 <br>
 
-![Footer banner, includes text "Create", "Leanr", "Code"](https://github.com/KidsRobot/KidsRobot/blob/main/Footer%20Banner.png)
+![Footer banner, "Create", "Learn", "Code"](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Footer%20Banner.png)
