@@ -17,7 +17,7 @@ We provide beginner-friendly user guide, and easy-to-follow code samples. We hav
 
 **Visit our website:**
 
-[![Logo of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Logo.png)](https://kidsrobot.ca)
+[![Logo of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/d287e1c4eea5ee3b6ce7527f69926fe3c984a3c2/Logo.png)](https://kidsrobot.ca)
 
 **https://www.kidsrobot.ca**
 
