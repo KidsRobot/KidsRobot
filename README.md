@@ -1,15 +1,15 @@
-![Banner of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Banner.png)
+![Banner of KidsRobot](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Banner.png)
 
 <br>
 
-# Kids Robot
+# KidsRobot
 
 
-> **We offer quality microcontrollers, sensors, electronic components, and robot kits with BBC micro:bit and Raspberry Pi. We are providing code samples and easy-to-follow guides for people who are interested in or love DIYing robots. We promise guaranteed quality at proper prices. Please feel free to contact us for purchase intentions or any questions.**
+> **We offer quality microcontrollers, sensors, electronic components, and robot kits with BBC micro:bit, Arduino, and Raspberry Pi. We are providing code samples and easy-to-follow guides for people who are interested in or love DIYing robots. We promise guaranteed quality at proper prices. Please feel free to contact us for purchase intentions or any questions.**
 
 Located in Canada, we are working to help children and students who want to study programming and robotics. We provide various kinds of electronic boards and components at proper and low prices, which are great for DIYing your robots. All of these also come with another awesome bonus: we offer code samples as supporting materials for beginners to learn programming and coding.
 
-Coding is the basic knowledge of the digital age. It is very important for people to understand and be able to use the technology around them. Letting children learn to code can prepare them for the future. Coding even helps children with communication, creativity, math, writing and confidence. At Kids Robot, we offer people a chance to use their knowledge to build their own robot. We believe the creativity of humans is unlimited.
+Coding is the basic knowledge of the digital age. It is very important for people to understand and be able to use the technology around them. Letting children learn to code can prepare them for the future. Coding even helps children with communication, creativity, math, writing and confidence. At KidsRobot, we offer people a chance to use their knowledge to build their own robot. We believe the creativity of humans is unlimited.
 
 We provide beginner-friendly user guides and easy-to-follow code samples. We post lots of awesome videos and resources on our YouTube channel and other social media platforms, including step-by-step tutorials. There is no need for any professional knowledge to use our products. The learning of robotics is suitable for anyone aged 6+. Get creative and have lots of fun!
 
@@ -17,7 +17,7 @@ We provide beginner-friendly user guides and easy-to-follow code samples. We pos
 
 **Visit our website:**
 
-[![Logo of Kids Robot](https://github.com/KidsRobot/KidsRobot/blob/c1edac09b219c6a772c63768aa9251427e41b69b/Logo.png)](https://kidsrobot.ca)
+[![Logo of KidsRobot](https://github.com/KidsRobot/KidsRobot/blob/c1edac09b219c6a772c63768aa9251427e41b69b/Logo.png)](https://kidsrobot.ca)
 
 **www.kidsrobot.ca**
 
