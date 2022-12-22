@@ -1,4 +1,4 @@
-![Banner of KidsRobot](https://github.com/KidsRobot/KidsRobot/blob/ceee9f96f52bf1782c497755534e26fc3410b5f1/Banner.png)
+![Banner of KidsRobot](https://github.com/KidsRobot/KidsRobot/blob/6fee64930615090a0bef0b1dc57efb7586d153c2/Banner.png)
 
 <br>
 
